@@ -1,3 +1,4 @@
+/* Arrays and Strings - Problem 1 */
 import java.util.Scanner;
 
 
