@@ -1,3 +1,5 @@
+/*Arrays and Strings- Problem 1.2 */
+
 import java.util.Arrays;
 import java.util.Scanner;
 
